@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-#by Strangedip and YT
-
 """Fraud_Detection.py
 
 ###
